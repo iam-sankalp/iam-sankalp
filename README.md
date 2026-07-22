@@ -13,45 +13,11 @@
     </a>
   </p>
 
-  <h2>Contribution Graph</h2>
-  <img src="./output/contribution-grid.svg" alt="Live GitHub contribution heatmap" />
-
   <h2>Terminal Window</h2>
   <img src="./output/terminal.svg" alt="Animated terminal window" />
 
-  <h2>ASCII Portrait</h2>
-  <img src="./output/portrait.svg" alt="Animated ASCII portrait" />
-
   <h2>Neofetch</h2>
   <img src="./output/info-card.svg" alt="Animated neofetch-style information card" />
-
-  <h2>Projects</h2>
-  <table align="center">
-    <thead>
-      <tr>
-        <th align="center">Project</th>
-        <th align="center">Focus</th>
-        <th align="center">Stack</th>
-      </tr>
-    </thead>
-    <tbody>
-    <tr>
-      <td align="center"><strong>Energy Dive Ecosystem</strong></td>
-      <td align="center">Premium media and market intelligence platform with dynamic sector experiences.</td>
-      <td align="center"><code>React, Vite, Tailwind, PHP, MySQL</code></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Energ Members System</strong></td>
-      <td align="center">JWT and OTP authentication flow for secure premium content access.</td>
-      <td align="center"><code>React, PHP, REST, Security</code></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Cloud Operations Toolkit</strong></td>
-      <td align="center">Deployment, monitoring, and server automation for production workloads.</td>
-      <td align="center"><code>Linux, Docker, Nginx, GitHub Actions</code></td>
-    </tr>
-    </tbody>
-  </table>
 
   <h2>Tech Stack</h2>
   <p>
@@ -71,13 +37,4 @@
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-161b22?style=for-the-badge&labelColor=0d1117&color=30363d" />
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-161b22?style=for-the-badge&labelColor=0d1117&color=30363d" />
   </p>
-
-  <h2>Social Links</h2>
-  <p>
-    <a href="https://github.com/sankalp03326">github.com/sankalp03326</a>
-    <br />
-    <a href="https://www.linkedin.com/in/sankalp-varshney8445">LinkedIn</a>
-  </p>
-
-  <sub>Generated daily with Python, SMIL SVG, and GitHub Actions.</sub>
 </div>
